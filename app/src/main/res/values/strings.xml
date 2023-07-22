@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Compose Navigation Result</string>
+
+    <!-- Screen1 -->
+    <string name="go_to_screen2">Go to Screen2</string>
+
+    <!-- Screen2 -->
+    <string name="navigate_back_with_result">Navigate back with result</string>
 </resources>
